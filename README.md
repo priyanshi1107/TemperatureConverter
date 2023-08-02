@@ -1,10 +1,10 @@
 # Temperature Converter
 
 ## Description
-The Temperature Converter is a web-based application that allows users to convert temperatures between Celsius and Fahrenheit. This project was developed for the Bharat Intern Virtual Internship. Users can input a temperature value and select the desired unit for conversion. The result is displayed instantly, providing a seamless and user-friendly experience.
+The Temperature Converter is a web-based application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. This project was developed as part of the Bharat Intern Virtual Internship. Users can input a temperature and instantly convert it to Celsius, Fahrenheit, and Kelvin. The application provides a seamless and user-friendly experience.
 
 ## Features
-- Convert temperatures between Celsius and Fahrenheit.
+- Convert temperatures between Celsius, Fahrenheit, and Kelvin.
 - Responsive design for optimal user experience on various devices.
 
 ## Technologies Used
@@ -13,7 +13,12 @@ The Temperature Converter is a web-based application that allows users to conver
 - JavaScript
 
 ## How to Use
-1. Open the `index.html` file in your web browser.
-2. Enter a temperature value in the input field.
-3. Choose the desired unit for conversion (Celsius or Fahrenheit) from the dropdown.
-4. Click the "Submit" button to see the converted temperature.
+1. Clone this repository or download the project files.
+2. Open the `index.html` file in your web browser.
+3. Enter a temperature value in the input field.
+4. No need to choose any unit for conversion.
+
+## Contact
+For any inquiries or feedback, please contact:
+- Name: Priyanshi Soni
+- Email: priyanshisoni844@gmail.com
