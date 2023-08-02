@@ -76,7 +76,7 @@ input::-webkit-inner-spin-button {
     -webkit-appearance: none;
 }
 
-/* for Mozilla firefox */
+/* for Mozilla firefox ,*/
 input {
     -moz-appearance: textfield;
 }
