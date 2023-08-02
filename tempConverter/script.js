@@ -1,4 +1,4 @@
-/* Your existing code */
+
 const calculateTemp = () => {
     const numberTemp = parseFloat(document.getElementById('temp').value);
     const tempSelected = document.getElementById("temp_diff");
